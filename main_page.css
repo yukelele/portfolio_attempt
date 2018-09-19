@@ -1,0 +1,38 @@
+.card-border {
+    padding: 1.5rem;
+    margin-right: 0;
+    margin-left: 0;
+    border-width: .2rem;
+}
+
+.card{
+  width: 100%;
+  height: 100%;
+}
+
+#ucsb{
+  height:75%;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#unsw{
+  height: 75%;
+  width: 60% ;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#venice{
+  height: 75%;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+h1{
+  color: red;
+}
